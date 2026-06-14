@@ -1,0 +1,43 @@
+{
+  "site": "S9 Agent Bonus Watch",
+  "date": "2026-06-14",
+  "items": [
+    {
+      "title": "Daily freshness guide added 2026-06-14",
+      "date": "2026-06-14",
+      "pages": [
+        "blog/bonus-terms-before-deposit"
+      ]
+    },
+    {
+      "title": "Account wallet support cluster added",
+      "date": "2026-06-13",
+      "pages": [
+        "blog/bonus-not-received-after-register",
+        "blog/wrong-agent-code-support"
+      ]
+    },
+    {
+      "title": "Register/login cluster added",
+      "date": "2026-06-13",
+      "pages": [
+        "blog/register-bonus-before-login",
+        "blog/agent-code-on-register-screen",
+        "blog/referral-link-vs-manual-register"
+      ]
+    },
+    {
+      "title": "Long-tail content sprint published",
+      "date": "2026-06-13",
+      "pages": [
+        "blog/agent-code-before-register",
+        "blog/bonus-terms-that-change-weekly",
+        "blog/referral-code-vs-agent-link"
+      ]
+    },
+    {
+      "title": "V4 independent design generated",
+      "date": "2026-06-12"
+    }
+  ]
+}
