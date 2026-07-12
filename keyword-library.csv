@@ -1,0 +1,81 @@
+id,keyword,intent,priority,page_type,target_page,last_modified,source
+1,s9 game bonus,core,P1,homepage/pillar,/,2026-06-28,sop-full-audit
+2,s9 bonus Pakistan,core,P1,homepage/pillar,/,2026-06-28,sop-full-audit
+3,s9 invite code not working,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
+4,s9 promo code expired,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
+5,s9 bonus wagering terms,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
+6,s9 Pakistan,brand,P1,homepage,/,2026-06-28,sop-full-audit
+7,s9 game Pakistan,brand,P1,homepage,/,2026-06-28,sop-full-audit
+8,S9 Bonus Terms Board support,brand,P2,support,/support/,2026-06-28,sop-full-audit
+9,S9 Bonus Terms Board FAQ,brand,P2,faq,/faq/,2026-06-28,sop-full-audit
+10,s9 promo code Pakistan,category,P1,hub/category,/promo-code/,2026-06-28,sop-full-audit
+11,s9 invite code Pakistan,category,P1,hub/category,/invite-code/,2026-06-28,sop-full-audit
+12,s9 agent program Pakistan,category,P1,hub/category,/agent-program/,2026-06-28,sop-full-audit
+13,s9 terms Pakistan,category,P1,hub/category,/terms/,2026-06-28,sop-full-audit
+14,why s9 invite code not working,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+15,how to check s9 bonus terms,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+16,why s9 promo code expired,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+17,what to check before s9 agent program,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+18,how to avoid bonus wording risk,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+19,s9 bonus vs promo code,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
+20,s9 invite code vs agent code,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
+21,s9 bonus terms vs competitor bonus terms,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
+22,s9 game bonus Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+23,s9 game bonus PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+24,s9 game bonus Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+25,s9 game bonus mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+26,s9 game bonus H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+27,s9 game bonus 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+28,s9 game bonus guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+29,s9 game bonus checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+30,s9 game bonus fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+31,s9 game bonus not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+32,s9 game bonus latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+33,s9 game bonus support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+34,s9 bonus Pakistan Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+35,s9 bonus Pakistan PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+36,s9 bonus Pakistan Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+37,s9 bonus Pakistan mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+38,s9 bonus Pakistan H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+39,s9 bonus Pakistan 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+40,s9 bonus Pakistan guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+41,s9 bonus Pakistan checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+42,s9 bonus Pakistan fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+43,s9 bonus Pakistan not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+44,s9 bonus Pakistan latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+45,s9 bonus Pakistan support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+46,s9 invite code not working Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+47,s9 invite code not working PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+48,s9 invite code not working Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+49,s9 invite code not working mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+50,s9 invite code not working H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+51,s9 invite code not working 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+52,s9 invite code not working guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+53,s9 invite code not working checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+54,s9 invite code not working fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+55,s9 invite code not working not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+56,s9 invite code not working latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+57,s9 invite code not working support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+58,s9 promo code expired Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+59,s9 promo code expired PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+60,s9 promo code expired Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+61,s9 promo code expired mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+62,s9 promo code expired H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+63,s9 promo code expired 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+64,s9 promo code expired guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+65,s9 promo code expired checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+66,s9 promo code expired fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+67,s9 promo code expired not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+68,s9 promo code expired latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+69,s9 promo code expired support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+70,s9 bonus wagering terms Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+71,s9 bonus wagering terms PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+72,s9 bonus wagering terms Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+73,s9 bonus wagering terms mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+74,s9 bonus wagering terms H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+75,s9 bonus wagering terms 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+76,s9 bonus wagering terms guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+77,s9 bonus wagering terms checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+78,s9 bonus wagering terms fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+79,s9 bonus wagering terms not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+80,s9 bonus wagering terms latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
